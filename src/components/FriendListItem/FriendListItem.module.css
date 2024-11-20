@@ -1,0 +1,18 @@
+.isonline {
+  color: #008000;
+}
+
+.isofline {
+  color: #d02020;
+}
+
+.card {
+  padding: 24px;
+  border-radius: 8px;
+  border: 2px solid #2b2b2b;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: 500;
+}
